@@ -1,4 +1,3 @@
-Here is the updated `README.md` content, formatted for direct use in your repository. I have included the citation for your published paper in a dedicated section.
 
 -----
 
